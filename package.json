@@ -1,6 +1,6 @@
 {
   "name": "remark-lint-heading-whitespace",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Prevents non-breaking spaces from breaking headings",
   "author": "Victor Felder <victor@draft.li>",
   "repository": {
